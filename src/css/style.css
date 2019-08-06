@@ -1,0 +1,13 @@
+
+.bg-company-blue {
+    background-color: steelblue !important;
+}
+
+body {
+    background: url('https://i.postimg.cc/gkKtNCkZ/Untitled.png') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    background-position: center;
+    -o-background-size: cover;
+}
