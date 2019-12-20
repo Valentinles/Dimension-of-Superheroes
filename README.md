@@ -6,8 +6,8 @@
 ## Used technologies
 - HTML
 - CSS
-- Bootstrap
 - JavaScript
+- Bootstrap
 - jQuery
 - AJAX
 
